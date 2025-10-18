@@ -34,7 +34,6 @@
 </p>
 
 
-#cantack#
 <h2 align="center">📬 Contact</h2>
 
 <p align="center">
